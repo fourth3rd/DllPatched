@@ -1,0 +1,5 @@
+﻿  sw.cpp
+C:\Users\정찬호\source\repos\ParsingDllMain\ParsingDllMain\sw.cpp(33,19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\정찬호\source\repos\ParsingDllMain\ParsingDllMain\sw.cpp(169,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\정찬호\source\repos\ParsingDllMain\ParsingDllMain\sw.cpp(193,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  ParsingDllMain.vcxproj -> C:\Users\정찬호\source\repos\ParsingDllMain\Debug\ParsingDllMain.exe
